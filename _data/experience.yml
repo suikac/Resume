@@ -4,7 +4,7 @@
   position: Software Development Engineer Internship
   duration: May, 2022 &mdash; Aug 2022
   summary: >
-    Improved UX of an internal Operator Website written in Ruby on Rails, HAML, and PostgreSQL, 
+    Improved UX of an internal Operator Website written in Ruby on Rails, HAML, and PostgreSQL.
     Wrote up a Script using AWS Lambda, S3, and Python to sync between third-party Service and 
     Services used within the team
 
