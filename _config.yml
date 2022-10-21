@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Hello World"
+description: "The resume for Yiming Huang"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Yiming (Mike) Huang"
-resume_title:                   "Resume of Yiming Huang"
+resume_title:                   "Grad Resume"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "yiminghuang@umass.edu"
